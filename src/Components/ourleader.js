@@ -28,6 +28,11 @@ const Ourleader = () => {
 
                     </div>
                 </Col>
+                <Col lg={3}>
+                    <div className='right-box'>
+
+                    </div>
+                </Col>
             </Row>
         </div>
     )

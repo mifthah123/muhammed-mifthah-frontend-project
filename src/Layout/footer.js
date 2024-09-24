@@ -12,6 +12,9 @@ const Footer = () => {
         <div className='footer-wrapper'>
             <Container>
                 <Row>
+
+
+
                     <Col lg={5}>
                         <div className='footer-left'>
                             <h1>Feel free to conect with us !</h1>
